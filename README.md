@@ -1,4 +1,4 @@
-# 这里即将引来一场比赛
+# 这里即将引来一场竞赛
 小伙伴们正在全力准备
 ## 1、我们的项目 WaveConnection
 ## 2、我们需要一个开源的即时通讯系统
@@ -20,4 +20,9 @@
 [AI情感陪伴语言模型接入（国际）](https://www.coze.com/docs/guides/welcome)\
 [AI情感陪伴语言模型接入（国内）](https://www.coze.cn/docs/guides/template_ai_companion)
 ## 5、接入AI海洋天气预报大模型
+## 6、准备工作
+github账号（每人一个），用于代码托管\
+aliyun账号（一个主账号），用于服务器与数据库及其他服务的部署\
+扣子账号（一个主账号）用于AI机器人模块的创建
+
 
